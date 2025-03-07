@@ -1,0 +1,4 @@
+name: DaStats
+version: '${version}'
+main: me.freezy.plugins.papermc.dastats.DaStats
+api-version: '1.19'
